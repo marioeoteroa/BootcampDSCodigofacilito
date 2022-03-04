@@ -1,0 +1,9 @@
+Base de Datos tomada de:
+https://www.kaggle.com/julianusugaortiz/colombia-housing-properties-price
+
+Información respecto al precio de las Viviendas en Colombia tomada de: 
+https://www.portafolio.co/economia/finanzas/cuanto-vale-comprar-vivienda-en-colombia-561210                                        
+https://www.semana.com/mejor-colombia/articulo/vivienda-una-prioridad-de-inversion-para-los-colombianos/202130/ 
+https://www.banrep.gov.co/es/estadisticas/indice-precios-vivienda-nueva-ipvnbr  
+https://revistas.urosario.edu.co/xml/5095/509559056003/index.html
+https://habi.co/blog/donde-es-mas-barata-la-vivienda-en-colombia
